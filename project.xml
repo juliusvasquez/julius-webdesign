@@ -1,0 +1,6 @@
+<project>
+	<includeProject>tooltwist </includeProject>
+        <includeProject>julius</includeProject>
+        <includeProject>ttStd</includeProject>
+        <includeProject>ttWbd</includeProject>
+</project>

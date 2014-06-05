@@ -1,0 +1,14 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.PageWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <linkedWidget>toolbox.page</linkedWidget>
+  <updateTime>0</updateTime>
+  <updatedBy>adm</updatedBy>
+  <pageMode></pageMode>
+  <pageType>regular</pageType>
+  <framework>jquery</framework>
+  <styleClass></styleClass>
+  <theme></theme>
+  <cell>
+  </cell>
+</widget>
